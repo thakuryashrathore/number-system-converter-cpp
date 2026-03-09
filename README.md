@@ -11,7 +11,7 @@ Supported Number Systems:
 
 The main C++ program file is:
 
-[number_converter.cpp](number_converter.cpp)
+[number_converter.cpp](./number_converter.cpp)
 
 You can view the full implementation in this file inside the repository.
 
