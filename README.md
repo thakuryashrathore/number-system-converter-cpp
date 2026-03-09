@@ -19,18 +19,6 @@ You can view the full implementation in this file inside the repository.
 
 ![Program Output](https://github.com/thakuryashrathore/number-system-converter-cpp/blob/main/Output.png)
 
-### Features
-- Convert Binary to Decimal
-- Convert Decimal to Binary
-- Convert Octal numbers
-- Convert Hexadecimal numbers
-
-### Technologies Used
-- C++
-- Object Oriented Programming
-- Arrays
-- ASCII Logic
-
 
 ### Features
 - Convert Binary to Decimal
