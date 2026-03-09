@@ -15,6 +15,9 @@ The main C++ program file is:
 [number_converter.cpp](https://github.com/thakuryashrathore/number-system-converter-cpp/blob/main/NUMBER_CONVERTER.cpp)
 
 You can view the full implementation in this file inside the repository.
+## 📸 Program Output
+
+![Program Output](https://github.com/thakuryashrathore/number-system-converter-cpp/blob/main/Output.png)
 
 ### Features
 - Convert Binary to Decimal
